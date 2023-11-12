@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abirama Kannan
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning Angular
 - 📫 Reach me out on codingkannan@gmail.com 
 
 <!---
