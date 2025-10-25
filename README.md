@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abirama Kannan
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently working Angular Projects
+- 🌱 I’m currently working on Angular Based Projects
 - 📫 Reach me out on codingkannan@gmail.com 
 
 <!---
