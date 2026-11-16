@@ -40,13 +40,6 @@ Also contributing to projects like freeCodeCamp and exploring Angular ecosystem 
 
 ---
 
-### 📊 GitHub Stats
-
-![Abiram's GitHub stats](https://github-readme-stats.vercel.app/api?username=abiramcodes&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abiramcodes&layout=compact&theme=radical&hide_border=true)
-
----
-
 ### 🤝 Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abikb.xyz-blue?style=flat-square)](https://www.abikb.xyz/)
