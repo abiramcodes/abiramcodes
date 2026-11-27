@@ -80,8 +80,8 @@ Deterministic health scanner for Angular codebases and coding agents. 0–100 sc
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=angular,ts,rxjs,react,astro,tailwind,nestjs,nodejs&theme=dark&perline=8">
-    <img src="https://skillicons.dev/icons?i=angular,ts,rxjs,react,astro,tailwind,nestjs,nodejs&theme=light&perline=8" alt="Angular, TypeScript, RxJS, React, Astro, Tailwind CSS, NestJS, Node.js">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=angular%2Cts%2Crxjs%2Creact%2Castro%2Ctailwind%2Cnestjs%2Cnodejs&theme=dark&perline=8">
+    <img src="https://skillicons.dev/icons?i=angular%2Cts%2Crxjs%2Creact%2Castro%2Ctailwind%2Cnestjs%2Cnodejs&theme=light&perline=8" alt="Angular, TypeScript, RxJS, React, Astro, Tailwind CSS, NestJS, Node.js">
   </picture>
 </p>
 
