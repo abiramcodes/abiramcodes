@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Abirama Kannan — Frontend Engineer, Angular, Micro-Frontends, Dev Tools">
+  <defs>
+    <clipPath id="c"><rect width="1200" height="300" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="300" fill="#0D1117"/>
+    <rect width="12" height="300" fill="#DD0031"/>
+    <path d="M1015 38 L1118 74 V158 C1118 216 1078 248 1015 264 C952 248 912 216 912 158 V74 Z" fill="#DD0031" fill-opacity="0.08" stroke="#DD0031" stroke-width="7" stroke-linejoin="round"/>
+    <text x="1015" y="196" font-family="Helvetica, Arial, sans-serif" font-size="118" font-weight="700" fill="#DD0031" text-anchor="middle">A</text>
+    <text x="64" y="116" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#F0F6FC">Abirama Kannan</text>
+    <rect x="66" y="136" width="120" height="5" fill="#DD0031"/>
+    <text x="64" y="184" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" fill="#C9D1D9">Frontend Engineer — Angular · Micro-Frontends · Dev Tools</text>
+    <text x="64" y="234" font-family="'SF Mono', Consolas, monospace" font-size="18" fill="#8B949E">shipping: <tspan fill="#F0F6FC">ng-point</tspan> <tspan fill="#DD0031">·</tspan> <tspan fill="#F0F6FC">angular-doctor</tspan> <tspan fill="#DD0031">·</tspan> open source</text>
+  </g>
+</svg>

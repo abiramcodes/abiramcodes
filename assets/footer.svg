@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-label="Building tools that help Angular developers ship healthier code.">
+  <defs>
+    <clipPath id="c"><rect width="1200" height="90" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="90" fill="#0D1117"/>
+    <rect width="12" height="90" fill="#DD0031"/>
+    <text x="606" y="56" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-style="italic" fill="#C9D1D9" text-anchor="middle">“Building tools that help Angular developers ship healthier code.”</text>
+  </g>
+</svg>
